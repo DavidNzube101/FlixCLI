@@ -68,4 +68,4 @@ To run the project in development:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [EPL-2.0](LICENSE).
